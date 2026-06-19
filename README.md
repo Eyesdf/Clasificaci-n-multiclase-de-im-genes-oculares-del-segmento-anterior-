@@ -90,4 +90,4 @@ Las rutas incluidas en los scripts corresponden al entorno local de desarrollo. 
 
 Autor
 
-Repositorio desarrollado como parte de un trabajo de investigación sobre clasificación multiclase de imágenes oculares del segmento anterior mediante visión por computadora y aprendizaje profundo.
+Pedro Joaquin Sanchez Gutierrez
